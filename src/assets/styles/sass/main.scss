@@ -1,0 +1,18 @@
+// modules and variables
+@import "partials/base";
+
+// partials
+@import "partials/map";
+
+html,body{
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+	font-family: $font-primary;
+}
+
+#wrapper {
+	width: 100vw;
+	height: 100vh;
+	margin: 0 auto;
+}

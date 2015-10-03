@@ -1,0 +1,21 @@
+{
+  "name": "abroadmap",
+  "version": "0.0.0",
+  "description": "abroad in asia",
+  "author": "Bernard Wang",
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "del": "^1.1.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.4.2",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-html-replace": "^1.5.1",
+    "gulp-jshint": "^1.9.0",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-notify": "^2.1.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.2.4",
+    "gulp-uglify": "^1.0.2",
+    "gulp-watch": "^4.3.5"
+  }
+}

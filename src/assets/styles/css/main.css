@@ -1,0 +1,13 @@
+#map {
+  height: 100%; }
+
+html, body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Dosis', "Helvetica Neue", sans-serif; }
+
+#wrapper {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto; }
