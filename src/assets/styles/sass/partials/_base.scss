@@ -1,10 +1,10 @@
-$font-primary: 'Dosis', "Helvetica Neue", sans-serif;
+@font-face {
+    font-family: Dosis;
+    src: url(https://fonts.googleapis.com/css?family=Dosis);
+    font-weight: 400;
+}
 
 $small: 500px;
 $medium: 800px;
-
-$light: 100;
-$regular: 400;
-$bold: 600;
 
 @import "modules/all";

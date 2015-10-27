@@ -20,7 +20,7 @@ var DIST_CSS			= './dist/assets/css/';
 //var DIST_CSS			= './dist/assets/styles/css/';
 var DIST_IMG			= './dist/assets/img/';
 
-var	ALL_HTML 			= './src/**/*.html';
+var	ALL_HTML 			= './src/	**/*.html';
 var	ALL_SCSS 			= './src/assets/styles/sass/**/.scss'; 
 var	ALL_CSS 			= './src/assets/styles/css/*.css';
 var	DEST_CSS 			= './src/assets/styles/css/';
